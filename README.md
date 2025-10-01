@@ -25,7 +25,7 @@ _________________
 
 ## Heramientas
 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?logo=mathworks&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-00B300?logo=mathworks&logoColor=white) 
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?logo=mathworks&logoColor=white)  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-00B300?logo=mathworks&logoColor=white) 
 
 
 
