@@ -1,5 +1,5 @@
 %% Obtener los valores para la obtención del modelo de la planta
-data = readmatrix("150_120_CQRobot.csv");
+data = readmatrix("./Data/150_120_CQRobot.csv");
 
 t = data(:,1); %tiempo
 u = data(:,2); %señal de control
