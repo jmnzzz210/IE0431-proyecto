@@ -19,8 +19,8 @@ muestras_iniciales = min(100, length(t));
 dc_offset_u = mean(u(1:muestras_iniciales));
 dc_offset_y = mean(y(1:muestras_iniciales));
 
-u_sindc = u - dc_offset_u - 10;
-y_sindc = y - dc_offset_y - 5;
+u_sindc = u - dc_offset_u - 10.2;
+y_sindc = y - dc_offset_y - 5.2;
 
 Ts = t(2) - t(1);
 
