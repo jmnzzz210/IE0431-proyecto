@@ -35,6 +35,8 @@ grid on;
 
 %% Abrir el system Identification
 systemIdentification();
-% Colocar en el 
+% Colocar en el data las entradas de u_sindc y la salida de y_sindc, el
+% tiempo de inicio es 20 y el Ts es 0.0326, en el process model se coloca
+% primer orden con delay o un segundo orden con delay, da igual
 
 %% Método de mínimos cuadrados
