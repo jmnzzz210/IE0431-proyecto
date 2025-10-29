@@ -6,25 +6,25 @@
 
 Se debe incluir: 
 
-- Descripcion concisa de los procesos con las no-linealidades -> aplicaciones reales y diagramas de bloques completos. 
+- **Descripcion concisa de los procesos con las no-linealidades -> aplicaciones reales y diagramas de bloques completos.**
 
-- Descripcion de variable: 
+- **Descripcion de variable:** 
 	- Controlada 
 	- Manipulada
 	- Senial de control 
 	- Perturbaciones
 	- Punto de operacion 
 
-- Funcionamiento deseado de lazos de control (Servomecanismo y/o regulatorio)
+- **Funcionamiento deseado de lazos de control (Servomecanismo y/o regulatorio)**
 
-- Minimo cuatro modelos de cada proceso: 
-	- Mediante toolbox (indicar el metodo y usar el tipo process model)
-	- Minimos cuadrados
-	- Utilizando dos metodos de lazo abierto 
+- **~~Minimo cuatro modelos de cada proceso~~**: 
+	- ~~Mediante toolbox (indicar el metodo y usar el tipo process model)~~
+	- ~~Minimos cuadrados~~
+	- ~~Utilizando dos metodos de lazo abierto~~
 
-- Evaluacion y comparativa de lso modelos para cada planta mediante al menos un indice de bondad (IAE o ISE) y graficas comparativas respecto a las respuestas reales
+- **~~Evaluacion y comparativa de lso modelos para cada planta mediante al menos un indice de bondad (IAE o ISE) y graficas comparativas respecto a las respuestas reales~~**
 
-- Al menos un controlador diseniado en tiempo continuo para probar en el equipo real.
+- **Al menos un controlador diseñado en tiempo continuo para probar en el equipo real.**
 
 ------------------------------------------------------------
 
