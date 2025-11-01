@@ -24,7 +24,7 @@ Se debe incluir:
 
 - **~~Evaluacion y comparativa de lso modelos para cada planta mediante al menos un indice de bondad (IAE o ISE) y graficas comparativas respecto a las respuestas reales~~**
 
-- **Al menos un controlador diseñado en tiempo continuo para probar en el equipo real.**
+- **~~Al menos un controlador diseñado en tiempo continuo para probar en el equipo real.~~**
 
 ------------------------------------------------------------
 
