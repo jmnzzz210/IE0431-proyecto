@@ -13,7 +13,7 @@
 ## Descripción
 Este repositorio corresponde al trabajo del curso **IE-0431 Sistemas de Control** (UCR), donde se desarrolla el diseño y análisis de un sistema de control realimentado.  
 
-Siendo este el equipo 3, se trabaja con el **motor DC CQRobot**, considerando como punto de operación un **cambio escalón en la señal PWM del motor GB37Y3530 de 120 a 150**.  
+Siendo este el equipo 3, se trabaja con el **motor DC CQRobot**, considerando como punto de operación un **cambio escalón en la señal PWM del motor CQRobot de 150 a 120**.  
 
 El objetivo es identificar un modelo dinámico representativo del sistema, diseñar diferentes algoritmos de control (PID continuo y discreto), evaluarlos mediante simulaciones en MATLAB/Simulink y validar experimentalmente el desempeño en laboratorio.  
 
