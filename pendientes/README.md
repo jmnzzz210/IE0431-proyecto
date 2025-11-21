@@ -38,7 +38,7 @@ Se debe incluir:
 - Subir archivos Matlab que generan y respaldan resultados.
    
 ### Pendientes final
-- Realizar el controlador discreto
+- Realizar el controlador discreto, verificar los tiempos de asentamiento, el sobrepaso máximo y la señal de control.
 - Medir las especificaciones de diseño (rendimiento, esfuerzo de control y robustez) esto a partir de los resultados obtenidos a través de simulaciones en matlab utilizadas en el funcionamiento de servocontrol y de control regulatorio **ACOMODARLO EN TABLAS**.
 - Medir las especificaciones de diseño (índices de error integral,
 esfuerzo de control, sobrepaso máximo y tiempos
